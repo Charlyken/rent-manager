@@ -89,7 +89,7 @@ src/
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone (https://github.com/Charlyken/rent-manager.git)
+    git clone https://github.com/Charlyken/rent-manager.git
     cd rent-manager
     ```
 
