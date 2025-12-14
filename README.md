@@ -39,7 +39,7 @@ Le projet remplace les processus manuels (Excel) par une solution **Orientée Ob
 
 Ce projet est egalement très essentiel pour moi, car il m'a permis de toucher à une biblothèque dite `Legacy` qu'est `Swing` c'est une decouverte que j'ai beaucoup apprécié.
 
-> *Note : j'ai réalisé ce projet pour preparer à une intérrogation de Java 😂😂.*
+> *Note : j'ai réalisé ce projet pour me preparer à une intérrogation de Java 😂😂.*
 
 ## 🎥 Démo Visuelle
 
