@@ -115,8 +115,6 @@ Les futures évolutions prévues pour transformer ce MVP en produit complet :
 
 - [ ] **Persistance SQL :** Remplacer le CSV par une base de données H2 ou MySQL (JDBC).
 - [ ] **Build System :** Migration vers Maven pour la gestion des dépendances.
-- [ ] **Tests Unitaires :** Couverture des services critiques avec JUnit 5.
-- [ ] **Web API :** Transformation du module Service en API REST avec Spring Boot.
 
 ## 🤝 Contribuer
 
