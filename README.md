@@ -135,5 +135,5 @@ Distribué sous la licence **MIT**. Voir le fichier `LICENSE` pour plus d'inform
 ---
 
 <div align="center">
-  <i>Développé avec rigueur et passion.</i>
+  <i>Développé par Charly Keuni.</i>
 </div>
